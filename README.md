@@ -1,42 +1,27 @@
-<h1 align="center">🎉 Página de Agradecimento</h1>
+# 🎉 Página de Agradecimento
 
-<p align="center">
-  Página de agradecimento exibida <strong>após o envio de um formulário de cadastro</strong>, com <strong>confirmação enviada por e-mail</strong>.
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/frontend-HTML5%20%7C%20CSS-blue?style=for-the-badge" />
-</p>
+Este repositório contém a estruturação semântica e os arquivos de estilização para uma página de confirmação apresentada após a submissão de um formulário de cadastro.
 
 ---
 
-## 💻 Sobre o projeto
+## 🎯 Objetivo
 
-Este projeto consiste em uma **página de agradecimento**, apresentada ao usuário após a submissão de um formulário de cadastro.  O objetivo é praticar a criação de páginas de resposta e confirmação em fluxos simples de formulários.
-
----
-
-## ⚙️ Funcionalidades
-
-- Exibição de mensagem de agradecimento após o cadastro  
-- Página de confirmação do envio do formulário  
-- Simulação de envio de confirmação por e-mail  
+O propósito deste projeto é praticar a criação de páginas de resposta e confirmação em fluxos simples de formulários, garantindo uma interface limpa e uma mensagem clara de feedback para o usuário.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 📂 Estrutura do Repositório
 
-- **HTML5**
-- **CSS3**
+O projeto combina a estruturação de conteúdo com os arquivos de implementação prática:
+
+### 💾 Arquivos de Desenvolvimento (Front-End)
+Arquivos estruturais e visuais prontos para renderização e execução no navegador:
+* `index.html` — Estrutura semântica e esqueleto principal da página de agradecimento.
+* `agradecimento.css` — Folha de estilo responsável pelo design, alinhamento e aparência visual da interface.
 
 ---
 
-## 🚀 Como visualizar
+## 🛠️ Tecnologias
 
-Clone o repositório e abra o arquivo **HTML** no navegador:
-
-```bash
-git clone https://github.com/Ygorfnascimento/Pagina_de_Agradecimento.git
-```
-Em seguida, abra o arquivo `index.html` no navegador.
-
-> ⚠️ Observação: este projeto é voltado à prática de **front-end** e **não possui back-end real para envio de e-mails**.
+* **HTML5** 
+* **CSS3**
